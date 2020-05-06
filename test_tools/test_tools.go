@@ -1,4 +1,4 @@
-package reflect_example
+package test_tools
 
 import (
 	"reflect"

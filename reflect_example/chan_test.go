@@ -3,6 +3,8 @@ package reflect_example
 import (
 	"reflect"
 	"testing"
+
+	. "github.com/nirasan/go-reflect-examples/test_tools"
 )
 
 func TestChan(t *testing.T) {
