@@ -1,4 +1,4 @@
-package ast_examples
+package ast_example
 
 import (
 	"go/ast"
